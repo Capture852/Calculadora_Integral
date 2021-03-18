@@ -16,8 +16,8 @@ matematicas de acuerdo a lo establecido en las leyes venezolanas.
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://www.python.org/downloads/release/python-379/): Version 3.7.9
-* [Technologie name](https://pypi.org/project/auto-py-to-exe/): Version 2.8.0
+* [Technologie name](https://www.python.org/downloads/release/python-379/): Python Version 3.7.9
+* [Technologie name](https://pypi.org/project/auto-py-to-exe/): Auto py to exe Version 2.8.0
 ## Installation
 ***
 A little intro about the installation. 
