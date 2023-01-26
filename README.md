@@ -9,7 +9,7 @@ de calcular el sueldo integral de un trabajador promedio de venezuela con sus re
 matematicas de acuerdo a lo establecido en las leyes venezolanas.
 
 ### Screenshot
-![Image text]( https://imgur.com/a/Ip7MrGY )
+![Image text](https://i.imgur.com/YyEb1Zu.png)
 ## Technologies
 ***
 A list of technologies used within the project:
