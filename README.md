@@ -13,7 +13,7 @@ Este es un desarrollado en python, FULL STACK desarrollado para la empresa CAPRI
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_638840-MLV51275956914_082022-O.webp)
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_780366-MLV51276135283_082022-O.webp)
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_712926-MLV51275956921_082022-O.webp)
-![Image text](https://http2.mlstatic.com/D_NQ_NP_832119-MLV51276135288_082022-O.webp
+![Image text](https://http2.mlstatic.com/D_NQ_NP_832119-MLV51276135288_082022-O.webp)
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_928949-MLA51278108795_082022-O.webp)
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_988006-MLV51276105430_082022-O.webp)
 ![Image text](https://http2.mlstatic.com/D_NQ_NP_858004-MLV51276181165_082022-O.webp)
