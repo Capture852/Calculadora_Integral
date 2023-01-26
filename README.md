@@ -1,5 +1,5 @@
-# Calculadora_Integral
-Este es un proyecto pequeño desarrollado en python, se basa en una calculadora que tiene la función de calcular el sueldo integral de un trabajador promedio de Venezuela con sus respectivas formulas  matemáticas de acuerdo a lo establecido en las leyes venezolanas.
+# CCA CIOS KD7
+Este es un proyecto desarrollado en python, se basa en un Software Administrativo con normativas que esta empresa necesitaba.
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -7,12 +7,20 @@ Este es un proyecto pequeño desarrollado en python, se basa en una calculadora 
 3. [Installation](#installation)
 ### General Info
 ***
-Este es un proyecto pequeño desarrollado en python, se basa en una calculadora que tiene la funcion
-de calcular el sueldo integral de un trabajador promedio de venezuela con sus respectivas formulas 
-matematicas de acuerdo a lo establecido en las leyes venezolanas.
+Este es un desarrollado en python, FULL STACK desarrollado para la empresa CAPRIX CORPORATION CA - si desean copia del sistema deben contactarme personalmente por COPYRIGHT de la empresa.
 
 ### Screenshot
-![Image text](https://i.imgur.com/YyEb1Zu.png)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_638840-MLV51275956914_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_780366-MLV51276135283_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_712926-MLV51275956921_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_832119-MLV51276135288_082022-O.webp
+![Image text](https://http2.mlstatic.com/D_NQ_NP_928949-MLA51278108795_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_988006-MLV51276105430_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_858004-MLV51276181165_082022-O.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_2X_936534-MLV51275987831_082022-F.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_2X_979146-MLV51276190146_082022-F.webp)
+![Image text](https://http2.mlstatic.com/D_NQ_NP_2X_932096-MLV51276060634_082022-F.webp)
+
 ## Technologies
 ***
 A list of technologies used within the project:
@@ -22,6 +30,6 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-No Aplica ( SOLO DESCARGAR ARCHIVO )
+Si desean copia del sistema deben contactarme personalmente por COPYRIGHT de la empresa.
 
 ```
